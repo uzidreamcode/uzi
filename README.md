@@ -6,7 +6,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Intermediate-red)
 ![Flutter](https://img.shields.io/badge/Flutter-Beginner-orrange)
 
-Web Developer located in Indonesia, active on facebook [Uzi](https://www.facebook.com/uzi.dreamcode.1/).
+Programer located in Indonesia, active on facebook [Uzi](https://www.facebook.com/uzi.dreamcode.1/).
 
 - 🔭 I’m currently studying **Software Engineering** at SMK Negeri 1 Kepanjen
 - 🌱 I’m currently learning **PHP**, **CodeIgniter** and **JavaScript**
